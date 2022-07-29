@@ -2,7 +2,7 @@
 - This website is HTML BASED
 - The *Purpose* is to get a better understanding of HTML
 
-# Collaborators :sunglasses
+# Collaborators :sunglasses:
 1. [**Rohisha**](https://github.com/Kai-Deux)
 2. [**Huckiel**](https://github.com/huckiel7)
 
@@ -11,5 +11,5 @@
     - .html is the file extension
 - Img is a folder for all images :)
 
-# Author :muscle :happy
-Rohisha <rohisharamauthar@gmail.com>
+# Author :muscle: :happy:
+Kai-Deux
