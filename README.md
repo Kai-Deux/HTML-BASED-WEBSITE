@@ -11,5 +11,5 @@
     - .html is the file extension
 - Img is a folder for all images :)
 
-# Author :muscle: :happy:
+# Author :muscle: :cool:
 Kai-Deux
